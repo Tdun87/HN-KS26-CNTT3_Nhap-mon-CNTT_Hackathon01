@@ -3,7 +3,7 @@
 - **Mã đề:** 17
 - **Họ tên:** Nguyen Tien Dung
 - **Lớp:** HN-KS26-CNTT3
-- **Link repository:** 
+- **Link repository:** https://github.com/Tdun87/HN-KS26-CNTT3_Nhap-mon-CNTT_Hackathon01
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
